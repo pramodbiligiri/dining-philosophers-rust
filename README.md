@@ -1,2 +1,4 @@
-# dining-philosophers-rust
-A simplified implementation of the Dining Philosophers multi-threading problem using Rust
+A basic implementation of the Dining Philosophers multi-threading problem in Rust 
+
+To execute:
+$ cargo run --verbose --example philosophers

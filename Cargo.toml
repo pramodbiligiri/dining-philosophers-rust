@@ -1,0 +1,8 @@
+[package]
+name = "rust-learn"
+version = "0.1.0"
+authors = ["Pramod Biligiri <pramodbiligiri@yahoo.com>"]
+
+[dependencies]
+rand = "0.3"
+lazy_static = "0.2"
